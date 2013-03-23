@@ -1,0 +1,30 @@
+    .submit{
+    	font-weight:bold;
+    	font-size:20px;
+        position: fixed;
+        left:365px;
+    }
+    .select1{
+    	position: fixed;
+    	left:72px;
+    }
+    .select2{
+    	position: fixed;;
+    	left:145px;
+    }
+    .select3{
+    	position: fixed;;
+    	left:200px;
+    }
+    .select4{
+        position:fixed;
+        left:255px;
+    }
+    #content{
+    	float:left;
+    }
+    #to{
+        position: relative;
+        top:-10px;
+        left:65px;
+    }
